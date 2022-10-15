@@ -1,0 +1,20 @@
+.checkbox {
+  border: 2px solid #e6e5ea;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.checkbox_wrapper {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.active {
+  border: none;
+  background-color: #a4ffaf;
+}
