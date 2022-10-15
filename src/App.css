@@ -134,6 +134,7 @@ button {
   color: #a4ffaf;
   display: none;
   position: absolute;
+  top: 0;
   right: 32px;
 }
 
